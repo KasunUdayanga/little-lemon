@@ -3,8 +3,8 @@ import { createRoot } from "react-dom/client";
 import './index.css';
 import 'mdb-react-ui-kit/dist/css/mdb.min.css';
 import Display from './component/Display';
-
 import Header from './component/Header';
+import Flax from './component/flax';
 import reportWebVitals from './reportWebVitals';
 import Footer from './component/Footer';
 
@@ -15,6 +15,7 @@ root.render(
   <React.StrictMode>
     <Header/>
     <Display/>
+  <Flax/>
     <Footer/>
   </React.StrictMode>
 );
