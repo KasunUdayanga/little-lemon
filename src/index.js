@@ -1,22 +1,13 @@
 import React from 'react';
-import { createRoot } from "react-dom/client";
+import ReactDOM from 'react-dom/client';
 import './index.css';
-import 'mdb-react-ui-kit/dist/css/mdb.min.css';
-import Display from './component/Display';
-import Header from './component/Header';
-import Flax from './component/flax';
+import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Footer from './component/Footer';
 
-const container = document.getElementById("root");
-const root = createRoot(container);
-
+const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Header/>
-    <Display/>
-  <Flax/>
-    <Footer/>
+    <App />
   </React.StrictMode>
 );
 
