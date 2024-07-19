@@ -2,7 +2,7 @@
 
 # MDB React 5
 
-### React 18 & Bootstrap 5 & Material Design 2.0 UI KIT
+### React 18 & Bootstrap 5
 
 **[>> Get Started in 4 steps](https://mdbootstrap.com/docs/b5/react/getting-started/installation/)**
 
