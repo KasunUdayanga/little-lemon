@@ -2,7 +2,7 @@
 
 # MDB React 5
 
-### React 18 & Bootstrap 
+### React 18 
 
 **[>> Get Started in 4 steps](https://mdbootstrap.com/docs/b5/react/getting-started/installation/)**
 
