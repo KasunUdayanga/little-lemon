@@ -25,7 +25,7 @@
       </td>
       <td>
         <ul>
-        <li><b>500+ material UI components</b></li>
+       
          <li>Super simple, 1 minute installation</li>
          <li>Detailed docs & multiple practical examples</li>
          <li>React 18</li>
