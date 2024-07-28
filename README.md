@@ -26,10 +26,7 @@
       <td>
         <ul>
        
-
-         <li>Detailed docs & multiple practical examples</li>
-         <li>React 18</li>
-         <li>Huge and active community</li>
+\
         </ul>
       </td>
     </tr>
