@@ -1,4 +1,4 @@
-![MDB Logo](https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-react.png)
+
 
 # MDB React 5
 
