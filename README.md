@@ -4,7 +4,7 @@
 
 ### React 18 
 
-**[>> Get Started in 4 steps](https://mdbootstrap.com/docs/b5/react/getting-started/installation/)**
+
 
 **[>> MDBReact 5 Demo](https://mdbootstrap.com/docs/b5/react#demo)**
 
