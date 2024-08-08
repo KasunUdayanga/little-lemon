@@ -45,7 +45,6 @@ Trusted by <b>2 000 000+</b> developers & designers. Used by companies like
       <td><img src="https://mdbootstrap.com/img/logo/brands/airbus.png" style="height: 40px">
       <td><img src="https://mdbootstrap.com/img/logo/brands/yahoo.png"  style="height: 40px">
       <td><img src="https://mdbootstrap.com/img/logo/brands/deloitte.png" style="height: 40px"></div>
-      <td><img src="https://mdbootstrap.com/img/logo/brands/ge.png" style="height: 40px">
 
     
     </tr>
