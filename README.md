@@ -18,8 +18,7 @@
 <table>
   <tbody>
     <tr>
-      <td>
-          <a href="https://mdbootstrap.com/docs/b5/react/" alt="Bootstrap 5" rel="dofollow">
+
           		<img src="https://mdbootstrap.com/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/about/assets/mdb5-about.jpg">
           </a>
       </td>
