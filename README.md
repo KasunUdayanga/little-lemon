@@ -6,7 +6,7 @@
 
 
 
-**[>> MDBReact 5 Demo](https://mdbootstrap.com/docs/b5/react#demo)**
+
 
 <a href="https://npmcharts.com/compare/mdb-react-ui-kit?minimal=true"> <img src="https://img.shields.io/npm/dw/mdb-react-ui-kit" alt="Downloads"></a>
 <a href="https://github.com/mdbootstrap/mdb-react-ui-kit/License.pdf"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
