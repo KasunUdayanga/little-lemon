@@ -9,7 +9,7 @@
 
 
 <a href="https://github.com/mdbootstrap/mdb-react-ui-kit/License.pdf"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
-<a href="https://twitter.com/intent/tweet/?text=Thanks+@mdbootstrap+for+creating+amazing+and+free+Material+Design+for+Bootstrap+4+UI+KIT%20https://mdbootstrap.com/docs/jquery/&hashtags=javascript,code,webdesign,bootstrap">
+<a href="https://twitter.com/intent/tweet/?
 
 ---
 
