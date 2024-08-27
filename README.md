@@ -8,7 +8,7 @@
 
 
 
-<a href="https://github.com/mdbootstrap/mdb-react-ui-kit/License.pdf"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
+
 <a href="https://twitter.com/intent/tweet/?
 
 ---
