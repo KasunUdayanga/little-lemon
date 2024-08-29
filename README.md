@@ -12,22 +12,7 @@
 
 ---
 
-<table>
-  <tbody>
-    <tr>
 
-          		<img src="https://mdbootstrap.com/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/about/assets/mdb5-about.jpg">
-          </a>
-      </td>
-      <td>
-        <ul>
-       
-\
-        </ul>
-      </td>
-    </tr>
-   </tbody>
-</table>
 
 Trusted by <b>2 000 000+</b> developers & designers. Used by companies like
 
