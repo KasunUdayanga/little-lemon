@@ -14,7 +14,7 @@
 
 
 
-Trusted by <b>2 000 000+</b> developers & designers. Used by companies like
+
 
 <table>
   <tbody>
