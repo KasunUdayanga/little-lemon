@@ -2,10 +2,6 @@
 
 # MDB React 5
 
-### React 18 
-
-
-
 
 
 
