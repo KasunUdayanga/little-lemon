@@ -13,9 +13,7 @@
 
 
 <table>
-  <tbody>
-    <tr>
-
+  
       <td><img src="https://mdbootstrap.com/img/logo/brands/sony.png" style="width: 10px;"></td>
       <td><img src="https://mdbootstrap.com/img/logo/brands/samsung.png"  style="height: 40px">
       <td><img src="https://mdbootstrap.com/img/logo/brands/airbus.png" style="height: 40px">
