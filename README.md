@@ -7,11 +7,6 @@
 
 <table>
   
-   
-      <td><img src="https://mdbootstrap.com/img/logo/brands/samsung.png"  style="height: 40px">
-      <td><img src="https://mdbootstrap.com/img/logo/brands/airbus.png" style="height: 40px">
-      <td><img src="https://mdbootstrap.com/img/logo/brands/yahoo.png"  style="height: 40px">
-      <td><img src="https://mdbootstrap.com/img/logo/brands/deloitte.png" style="height: 40px"></div>
 
     
     </tr>
