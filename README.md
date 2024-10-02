@@ -136,12 +136,6 @@
 </a>
 
 ### Notes
-
-<p>Notes are small components very helpful in inserting an additional piece of information.</p>
-
-<a href="https://mdbootstrap.com/docs/b5/react/content-styles/typography/" alt="Bootstrap 5" rel="dofollow">
-  <p align="center">
-    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-alerts.png">
   </p>
 </a>
 
