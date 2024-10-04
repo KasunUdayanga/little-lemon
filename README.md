@@ -16,9 +16,6 @@
 ---
 
 
-
-**[>> Click here for a written tutorial](https://mdbootstrap.com/docs/b5/react/getting-started/quick-start/)**
-
           </a>
       </td>
       <td>
