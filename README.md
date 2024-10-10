@@ -6,13 +6,6 @@
       </tr>
    </tbody>
 </table>
-
----
-
-# Demo
-
-#### Simplicity and ease of use are key features of MDBReact 5 UI Kit. You need only one minute to install and run it.
-
 ### Buttons
 
 <p>Use MDB custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.</p>
