@@ -1,11 +1,4 @@
 
-
-
-       
-         </td>
-      </tr>
-   </tbody>
-</table>
 ### Buttons
 
 <p>Use MDB custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.</p>
