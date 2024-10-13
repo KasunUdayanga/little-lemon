@@ -78,10 +78,6 @@
   </p>
 </a>
 
-### Notes
-  </p>
-</a>
 
-</table>
 
 and more.
