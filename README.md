@@ -1,7 +1,7 @@
 
 ### Buttons
 
-<p>Use MDB custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.</p>
+
 
 <a href="https://mdbootstrap.com/docs/b5/react/components/buttons/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
