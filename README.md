@@ -6,11 +6,7 @@
 
 
 
-<a href="https://mdbootstrap.com/docs/b5/react/components/buttons/" alt="Bootstrap 5" rel="dofollow">
-  <p align="center">
-    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-buttons-outline.gif">
-  </p>
-</a>
+
 
 ### Spinners
 
