@@ -1,4 +1,3 @@
-
 ### Spinners
 
 <a href="https://mdbootstrap.com/docs/b5/react/components/spinners/" alt="Bootstrap 5" rel="dofollow">
