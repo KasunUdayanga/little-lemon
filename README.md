@@ -19,7 +19,6 @@
     <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-footer.png">
   </p>
 </a>
-
 ### Hover
 
 <p>MDB hover effect appears when the user positions the computer cursor over an element without activating it. Hover effects make a website more interactive.</p>
