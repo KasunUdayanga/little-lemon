@@ -17,7 +17,6 @@
   </p>
 </a>
 ### Hover
-
 <p>MDB hover effect appears when the user positions the computer cursor over an element without activating it. Hover effects make a website more interactive.</p>
 <a href="https://mdbootstrap.com/docs/b5/react/content-styles/hover-effects/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
