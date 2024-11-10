@@ -28,4 +28,3 @@
     <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-hover2.png">
   </p>
 </a>
-
