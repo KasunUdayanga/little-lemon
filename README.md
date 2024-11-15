@@ -1,4 +1,4 @@
-### Spinners
+
 <a href="https://mdbootstrap.com/docs/b5/react/components/spinners/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
     <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-color-spinners.gif">
