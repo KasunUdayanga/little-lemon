@@ -2,7 +2,7 @@
   <p align="center">
     <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-color-spinners.gif">
   </p>
-</a>
+
 <p>A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options.</p>
 <a href="https://mdbootstrap.com/docs/b5/react/components/cards/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
