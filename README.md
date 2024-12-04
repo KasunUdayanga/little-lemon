@@ -1,5 +1,4 @@
 
-<p>A footer is an additional navigation component. It can hold links, buttons, company info, copyrights, forms, and many 
 <a href="https://mdbootstrap.com/docs/b5/react/navigation/footer/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
     <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-footer.png">
