@@ -7,6 +7,5 @@
   <p align="center">
     <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-hover.gif">
   </p>
-
 <a href="https://mdbootstrap.com/docs/b5/react/content-styles/hover-effects/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-hover2.png">
